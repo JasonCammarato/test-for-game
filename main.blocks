@@ -1,0 +1,7 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="pxt-on-start" id="(hEObZtV6AT-Cy,%y@:!" x="20" y="20"><statement name="HANDLER"><block type="device_print_message" id="l:8)9u?}z[q6EE[tUXYb"><value name="text"><shadow type="text" id="cr?Pz;#IQnzTOC*]aG|g"><field name="TEXT">Hi user!</field></shadow></value><next><block type="device_pause" id="fk;%0DHNLI~B?#ZyL[A:"><value name="pause"><shadow type="timePicker" id="9H8Drs+H3TdXc6,a1Fgr"><field name="ms">100</field></shadow></value><next><block type="device_show_leds" id=":cXtB+%qw[BW+GVH=:nM"><field name="LEDS">`
+        . . # # . 
+        . . # . # 
+        # . # . # 
+        . . # . # 
+        # . # # .
+        `</field><next><block type="playMelody" id="3pwn9@YC1*P0@0$%7U@%"><value name="melody"><shadow type="melody_editor" id="vh/B^1O!(Y,#.D9?J=8D"><field name="melody">"E - - G A - - C "</field></shadow></value><value name="tempo"><shadow type="math_number_minmax" id="IX-Slo$UewO3bTF(#0o9"><mutation min="40" max="500" label="Tempo" precision="0"></mutation><field name="SLIDER">120</field></shadow></value></block></next></block></next></block></next></block></statement></block></xml>
