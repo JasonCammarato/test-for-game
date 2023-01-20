@@ -1,5 +1,5 @@
 {
-    "name": "stickdude doing actions",
+    "name": "boss game",
     "description": "",
     "dependencies": {
         "core": "*",
@@ -9,7 +9,8 @@
     "files": [
         "main.blocks",
         "main.ts",
-        "README.md"
+        "README.md",
+        null
     ],
     "testFiles": [
         "test.ts"
